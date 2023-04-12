@@ -2,9 +2,9 @@
 
 # Device
 export FOX_BRANCH="fox_12.1"
-export DT_LINK="https://gitlab.com/OrangeFox/device/beryllium.git -b fox_12.1"
+export DT_LINK="https://github.com/TimmyTurner51/TWRP-Redmagic-Pro.git" # -b fox_12.1
 
-export DEVICE="supernova"
+export DEVICE="NX709J"
 export OEM="nubia"
 
 # Build Target
